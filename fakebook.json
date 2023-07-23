@@ -1,0 +1,72 @@
+[
+    {
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Genre": "Fiction",
+        "PublicationDate": "July 11, 1960",
+        "Reviews": []
+    },
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Genre": "Fiction",
+        "PublicationDate": "June 8, 1949",
+        "Reviews": []
+    },
+    {
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Genre": "Fiction",
+        "PublicationDate": "January 28, 1813",
+        "Reviews": []
+    },
+    {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Genre": "Fiction",
+        "PublicationDate": "April 10, 1925",
+        "Reviews": []
+    },
+    {
+        "Title": "To the Lighthouse",
+        "Author": "Virginia Woolf",
+        "Genre": "Fiction",
+        "PublicationDate": "May 5, 1927",
+        "Reviews": []
+    },
+    {
+        "Title": "The Catcher in the Rye",
+        "Author": "J.D. Salinger",
+        "Genre": "Fiction",
+        "PublicationDate": "July 16, 1951",
+        "Reviews": []
+    },
+    {
+        "Title": "The Hobbit",
+        "Author": "J.R.R. Tolkien",
+        "Genre": "Fantasy",
+        "PublicationDate": "September 21, 1937",
+        "Reviews": []
+    },
+    {
+        "Title": "Harry Potter and the Sorcerer's Stone",
+        "Author": "J.K. Rowling",
+        "Genre": "Fantasy",
+        "PublicationDate": "June 26, 1997",
+        "Reviews": []
+    },
+    {
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "Genre": "Fiction",
+        "PublicationDate": "1988",
+        "Reviews": []
+    },
+    {
+        "Title": "The Lord of the Rings",
+        "Author": "J.R.R. Tolkien",
+        "Genre": "Fantasy",
+        "PublicationDate": "July 29, 1954",
+        "Reviews": []
+    }
+]
